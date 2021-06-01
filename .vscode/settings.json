@@ -1,0 +1,15 @@
+{
+  "python.pythonPath": "/Users/kyunghwan/.local/share/virtualenvs/airbnb-clone-_YpTdwlp/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": null
+  },
+  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": "/Users/kyunghwan/.local/share/virtualenvs/airbnb-clone-_YpTdwlp/bin/black",
+  "editor.formatOnSave": true,
+  "python.linting.flake8Args": ["--max-line-length=88"]
+}
